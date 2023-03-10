@@ -1,2 +1,3 @@
 # SimpleRPGConsole
-Simple RPG game of wondering into a Bakers shop
+
+Juego simple en consola de RPG de una persona entrando a una tienda de suministros de repostería

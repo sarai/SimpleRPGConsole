@@ -1,0 +1,15 @@
+C:\Users\DGSIF-09\Documents\GitHub\SimpleRPGConsole\bin\Debug\net7.0\SimpleRPGConsole.exe
+C:\Users\DGSIF-09\Documents\GitHub\SimpleRPGConsole\bin\Debug\net7.0\SimpleRPGConsole.deps.json
+C:\Users\DGSIF-09\Documents\GitHub\SimpleRPGConsole\bin\Debug\net7.0\SimpleRPGConsole.runtimeconfig.json
+C:\Users\DGSIF-09\Documents\GitHub\SimpleRPGConsole\bin\Debug\net7.0\SimpleRPGConsole.dll
+C:\Users\DGSIF-09\Documents\GitHub\SimpleRPGConsole\bin\Debug\net7.0\SimpleRPGConsole.pdb
+C:\Users\DGSIF-09\Documents\GitHub\SimpleRPGConsole\obj\Debug\net7.0\SimpleRPGConsole.csproj.AssemblyReference.cache
+C:\Users\DGSIF-09\Documents\GitHub\SimpleRPGConsole\obj\Debug\net7.0\SimpleRPGConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DGSIF-09\Documents\GitHub\SimpleRPGConsole\obj\Debug\net7.0\SimpleRPGConsole.AssemblyInfoInputs.cache
+C:\Users\DGSIF-09\Documents\GitHub\SimpleRPGConsole\obj\Debug\net7.0\SimpleRPGConsole.AssemblyInfo.cs
+C:\Users\DGSIF-09\Documents\GitHub\SimpleRPGConsole\obj\Debug\net7.0\SimpleRPGConsole.csproj.CoreCompileInputs.cache
+C:\Users\DGSIF-09\Documents\GitHub\SimpleRPGConsole\obj\Debug\net7.0\SimpleRPGConsole.dll
+C:\Users\DGSIF-09\Documents\GitHub\SimpleRPGConsole\obj\Debug\net7.0\refint\SimpleRPGConsole.dll
+C:\Users\DGSIF-09\Documents\GitHub\SimpleRPGConsole\obj\Debug\net7.0\SimpleRPGConsole.pdb
+C:\Users\DGSIF-09\Documents\GitHub\SimpleRPGConsole\obj\Debug\net7.0\SimpleRPGConsole.genruntimeconfig.cache
+C:\Users\DGSIF-09\Documents\GitHub\SimpleRPGConsole\obj\Debug\net7.0\ref\SimpleRPGConsole.dll
